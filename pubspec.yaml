@@ -39,6 +39,7 @@ dependencies:
   flutter_native_splash: ^2.4.8
   flutter_launcher_icons: ^0.14.4
   rename_app: ^1.6.6
+  
  
 
 dev_dependencies:
